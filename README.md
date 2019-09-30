@@ -8,5 +8,5 @@ includes one of features of the website. The major features of this program is t
 permission to add computer science tutor's name, availablity, personal information(like email). With this program cs website admin should be 
 able to remove and modify the class name or added tutor. 
 
-However, there was multiple groups working in a same projects only the best one was selected and listed in the webiste. This version of 
+However, there was multiple groups working in a same projects only the best one was selected and listed in the website. This version of 
 tutor scheduling feature has not been added :)
